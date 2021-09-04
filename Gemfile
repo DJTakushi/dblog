@@ -9,7 +9,7 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "webrick"
 gem "jekyll-mentions"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
