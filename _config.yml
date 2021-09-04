@@ -22,3 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+baseurl: ""
+url: "djtakushi.github.io/dblog/"
+permalink: /:title
