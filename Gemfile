@@ -2,14 +2,14 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+# git_source(:github) { |repo_name| "https://github.com/DJTakushi/dblog" }
 
 gem "jekyll"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem "webrick"
 gem "jekyll-mentions"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
