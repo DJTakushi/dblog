@@ -24,5 +24,5 @@ plugins:
   - jekyll-seo-tag
 
 #baseurl: "/dblog"
-url: "djtakushi.github.io"
+url: "djtakushi.github.io/dblog"
 #permalink: /:title
