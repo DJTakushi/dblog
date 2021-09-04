@@ -1,6 +1,6 @@
-domain: https://djtakushi.github.io/dblog       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: https://djtakushi.github.io/dblog/       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 #baseurl: /dblog
-url: https://djtakushi.github.io/dblog
+url: https://djtakushi.github.io/dblog/
 #permalink: /:title     #this actually works now, it didn't for me last time, not sure wh
 
 
