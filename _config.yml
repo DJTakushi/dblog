@@ -1,3 +1,7 @@
+baseurl: dblog/
+url: "djtakushi.github.io"
+permalink: /:title     #this actually works now, it didn't for me last time, not sure wh
+
 collections:
   authors:
     output: true
