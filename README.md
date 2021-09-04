@@ -5,3 +5,12 @@ Set up using [https://jekyllrb.com/docs/step-by-step/01-setup/](https://jekyllrb
 #### Build
 Build with `jekyll build` /
 Serve with `jekyll serve`
+
+## TODO
+[ ] remove staff page (comment out for reference later)
+[ ] relocate blog content to Home page
+[ ] Replace demo blog posts with previous content
+[ ] New content
+[ ] Try themes
+[ ] Add personal formatting (fonts, colors, etc.)
+[ ] Add photo library
