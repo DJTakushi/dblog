@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post #not necessary after specified in _config.yml
 author: ted
 ---
 Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
