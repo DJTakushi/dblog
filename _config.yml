@@ -23,6 +23,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-#baseurl: ""
-#url: "djtakushi.github.io/dblog/"
+baseurl: "/dblog"
+url: "djtakushi.github.io"
 #permalink: /:title
