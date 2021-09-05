@@ -7,7 +7,7 @@ Build with `jekyll build` /
 Serve with `jekyll serve`
 
 ## TODO
-[ ] remove staff page (comment out for reference later)
+[x] remove staff page (comment out for reference later)
 [ ] relocate blog content to Home page
 [ ] Replace demo blog posts with previous content
 [ ] New content
