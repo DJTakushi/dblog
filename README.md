@@ -8,7 +8,7 @@ Serve with `jekyll serve`
 
 ## TODO
 [x] remove staff page (comment out for reference later)
-[ ] relocate blog content to Home page
+[x] relocate blog content to Home page
 [ ] Replace demo blog posts with previous content
 [ ] New content
 [ ] Try themes
