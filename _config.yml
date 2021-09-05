@@ -38,4 +38,4 @@ plugins:
 #url: "djtakushi.github.io/dblog"
 #permalink: /:title
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
