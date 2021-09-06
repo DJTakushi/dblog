@@ -1,7 +1,10 @@
 ---
 ---
-@import "main";
-
+@import "{{ site.theme }}";
+//@import "main";
+.current {
+  color: green;
+}
 .standard-image
 {
     margin: 0 auto;
