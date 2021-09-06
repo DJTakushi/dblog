@@ -8,9 +8,11 @@ layout: default
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+    <li style="list-style-type:none;" >
+      <div class="blogpost">
+        <h1 class="posttitle"><a href="{{ post.url | prepend:site.baseurl}}">{{ post.title }}</a></h1>
+        {{ post.excerpt }}
+      <blogpost>
     </li>
   {% endfor %}
 </ul>

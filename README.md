@@ -12,5 +12,6 @@ Serve with `jekyll serve`
 [x] Replace demo blog posts with previous content
 [x] New content
 [x] Try themes (felt nothing)
-[ ] Add personal formatting (fonts, colors, etc.)
+[x] Add personal formatting (fonts, colors, etc.)
+[ ] Improve formatting using other blogs as examples.
 [ ] Add photo library

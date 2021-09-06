@@ -8,3 +8,24 @@
     display: block;
     max-width: 100%;
 }
+body {
+    font-family: "Consolas", sans-serif;
+    font: 14px/20px ;//Arial, Helvetica, sans-serif;
+    background-color:black;
+    color:white;
+}
+.blogpost {
+  max-width: 800px;
+  border-style: solid;
+  border-color: #202020;
+  margin: 20;//10px 0 20px;
+  border-radius: 10px;
+}
+p {
+  //max-width: 800px;
+  // margin: 10px 0 20px;
+  }
+.posttitle {
+  display : block;
+  text-align: center;
+}
