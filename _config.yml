@@ -37,3 +37,5 @@ plugins:
 #baseurl: "/dblog"
 #url: "djtakushi.github.io/dblog"
 #permalink: /:title
+
+theme: jekyll-theme-cayman
