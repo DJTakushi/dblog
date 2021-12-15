@@ -21,11 +21,15 @@
   display : block;
   text-align: center;
 }
+.block_c {
+  display: block;
+  margin-left:70px;
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 50%;
 }
 .portraitImageStandard
 {
@@ -35,12 +39,15 @@
   max-height:500px;
 }
 body {
-    font-family: "Consolas", sans-serif;
+    font-family: Charter,Georgia,Times,Serif;
     font: 14px/20px ;//Arial, Helvetica, sans-serif;
-    background-color:black;
-    color:white;
+    background-color:#FFF0F0;
+    color:black;
 }
 p {
-  //max-width: 800px;
-  // margin: 10px 0 20px;
-  }
+  max-width: 800px;
+  margin-left:20px;
+  margin-right:20;
+  text-indent: 50px;
+  line-height: 2.0;
+}
