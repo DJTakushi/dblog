@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/authors/danny.html</loc>
-<lastmod>2022-07-30T21:44:16-05:00</lastmod>
+<lastmod>2022-07-30T22:09:02-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/authors/jill.html</loc>
-<lastmod>2022-07-30T21:44:16-05:00</lastmod>
+<lastmod>2022-07-30T22:09:02-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/2021/07/25/2021-07-25.html</loc>
@@ -74,14 +74,14 @@
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/djangoTemplates/author.html</loc>
-<lastmod>2022-07-30T21:36:56-05:00</lastmod>
+<lastmod>2022-07-30T22:08:28-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/djangoTemplates/default.html</loc>
-<lastmod>2022-07-30T21:36:56-05:00</lastmod>
+<lastmod>2022-07-30T22:08:28-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/djangoTemplates/post.html</loc>
-<lastmod>2022-07-30T21:36:56-05:00</lastmod>
+<lastmod>2022-07-30T22:08:28-05:00</lastmod>
 </url>
 </urlset>
