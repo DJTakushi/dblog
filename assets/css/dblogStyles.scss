@@ -2,58 +2,47 @@
 ---
 @import "main";
 .current {
-  color: green;
+  // color: green;
 }
-.standard-image
-{
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
-}
+// .standard-image
+// {
+//     margin: 0 auto;
+//     display: block;
+//     max-width: 100%;
+// }
 .blogpost {
-  max-width: 800px;
+  /*max-width: 800px;
   border-style: solid;
   border-color: #202020;
   margin: 20;//10px 0 20px;
-  border-radius: 10px;
+  border-radius: 10px;*/
 }
 .posttitle {
-  display : block;
-  text-align: center;
+  // display : block;
+  // text-align: center;
 }
-.block_c {
-  display: block;
-  width: 800px;
+/*.block_c {
+  max-width: 800px;
   display: flex;
-  justify-content: center;
-}
-.imgur-embed-pub {
-  display: block;
-  margin-left:70px;
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-.portraitImageStandard
+  // justify-content: center;
+}*/
+// .portraitImageStandard
+.img-m
 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
   max-height:500px;
+  max-width:800px;
 }
-body {
+/*body {
     font-family: Charter,Georgia,Times,Serif;
     font: 14px/20px ;//Arial, Helvetica, sans-serif;
     background-color:#FFF0F0;
-    color:black;
-}
-p {
+     color:black;
+ }*/
+/* p {
   max-width: 800px;
   margin-left:20px;
   margin-right:20;
   text-indent: 50px;
   line-height: 2.0;
-}
+}*/
