@@ -1,4 +1,5 @@
 Gemfile.lock
+_site/
 _site/assets/images
 _site/feed.xml
 .jekyll-cache/
