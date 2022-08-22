@@ -19,9 +19,13 @@
 
 <body>
   <div class="cover-container d-flex h-100 p-3 mx-auto flex-column containerParticle">
-    {% include navigation.html %}
-    <div id="coreContent">
-      {{ content }}
+    <div class="blogContainer">
+      <div class="posttitle">
+      {% include navigation.html %}
+      </div>
+      <div id="coreContent">
+        {{ content }}
+      </div>
     </div>
   </div>
 </body>
