@@ -27,13 +27,6 @@
   // justify-content: center;
 }*/
 /* .portraitImageStandard */
-.img-m
-{
-  display: flex;
-  max-height:500px;
-  max-width:800px;
-  max-width:100%;
-}
 .ul-noIndent {
   padding-inline-start: 0px;
 }
