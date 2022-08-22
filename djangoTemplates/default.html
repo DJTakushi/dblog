@@ -8,12 +8,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   
   <link rel="stylesheet" type="text/css" href="/static/takushi/style.css">
-  <link rel="stylesheet" type="text/css" href="/static/dblog/css/dblogStyles.css">
   <script src="/static/takushi/myScripts.js"></script>
   
 
   <link rel="icon" type="image/x-icon" href="/static/dblog/images/favicon.ico">
   <link rel="stylesheet" href="/static/dblog/css/dblogStyles.css">
+
+{% if layout.customcss %}
+  <link rel="stylesheet" href="/static/dblog/css/{{layout.customcss}}">
+{% else %}
+  <link rel="stylesheet" href="/static/dblog/css/indexStyles.css">
+{% endif %}
+
 
 {% feed_meta %}
 {% seo %}
@@ -22,7 +28,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
-  <div class="cover-container d-flex h-100 p-3 mx-auto flex-column containerParticle t_overflow">
+  <div class="containerParticle t_overflow bodyContainer">
     <nav class="navbar navbar-expand">
       
       <a class="navbar-brand nav-link index" href="/dblog/" id = "dblog">dblog</a>
@@ -51,10 +57,14 @@
       
 <div class="container-content">
 
-    {% include navigation.html %}
-    <div id="coreContent">
-      {{ content }}
+<div class="blogContainer">
+  <div class="posttitle">
+  {% include navigation.html %}
   </div>
+  <div id="coreContent">
+    {{ content }}
+  </div>
+</div>
 
 </div>
 
