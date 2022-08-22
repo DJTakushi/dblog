@@ -4,4 +4,9 @@
   max-height:800px;
   max-width:800px;
   max-width:100%;
+  margin: auto;
+}
+.blogContainer{
+  max-width: 800px;
+  margin: auto;
 }
