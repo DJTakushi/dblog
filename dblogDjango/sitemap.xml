@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/authors/danny.html</loc>
-<lastmod>2022-08-21T21:14:25-05:00</lastmod>
+<lastmod>2022-08-22T14:34:42-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/authors/jill.html</loc>
-<lastmod>2022-08-21T21:14:25-05:00</lastmod>
+<lastmod>2022-08-22T14:34:42-05:00</lastmod>
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/2021/07/25/2021-07-25.html</loc>
@@ -80,6 +80,6 @@
 </url>
 <url>
 <loc>https://djtakushi.github.io/dblog/dblog/djangoTemplates/default.html</loc>
-<lastmod>2022-08-21T20:16:39-05:00</lastmod>
+<lastmod>2022-08-22T10:22:46-05:00</lastmod>
 </url>
 </urlset>
