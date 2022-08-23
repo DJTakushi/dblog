@@ -2,7 +2,7 @@
 author: Danny
 ---
 
-<img class="img-m" src="https://live.staticflickr.com/65535/51782654475_99dc62611d_z.jpg">
+![](https://live.staticflickr.com/65535/51782654475_89e0e93231_h.jpg){: .img-m}
 Merry Christmas & Happy Holidays!  I've never written a Christmas Card before, but considering that I haven't seen most of you folks since I moved to Osaka, I figure this is a decent opportunity for a long-overdue check-in.
 
 
