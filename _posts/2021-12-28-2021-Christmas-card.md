@@ -63,13 +63,13 @@ Japan is much more mountainous and coastal than Chicagoland back home, but also 
 
 ## REI Projects
 
-My sister in Atlanta and I have been working on some rental properties over the past few years.  
+My partner in Atlanta and I have been working on some rental properties over the past few years.  
 
 <div class="img-m">
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/Z1wVaa8"  ><a href="//imgur.com/a/Z1wVaa8">REI Montage</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-This fall, we acquired our second property, which has two separate buildings on it.  My sister now lives in one, and the other we'll soon rent out.  It's been a struggle to deal with repairs, tenants, and the stress of large financial investments.  Furthermore, it has been at times difficult dealing with my physical distance from these projects and inability to help with hands-on projects, which my sister has to then bear the full burden of (more on this shortly).  However, these have overall been excellent projects for us, and we're looking to expand the portfolio over the years.  It's also been a good way to stay close to my sister, who last year got her PhD from Emory and this year earned her black belt in Brazilian Jiu Jitsu.  She's awesome.
+This fall, we acquired our second property, which has two separate buildings on it.  My partner now lives in one, and the other we'll soon rent out.  It's been a struggle to deal with repairs, tenants, and the stress of large financial investments.  Furthermore, it has been at times difficult dealing with my physical distance from these projects and inability to help with hands-on projects, which my sister has to then bear the full burden of (more on this shortly).  However, these have overall been excellent projects for us, and we're looking to expand the portfolio over the years.  It's also been a good way to stay close to my sister, who last year got her PhD from Emory and this year earned her black belt in Brazilian Jiu Jitsu.  She's awesome.
 
 ## Future plans
 
@@ -79,7 +79,7 @@ Unfortunately, my stay in Japan will soon come to a close.  Japan is an incredib
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/gBTTPr0"  ><a href="//imgur.com/a/gBTTPr0">Japan Twilight</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-Leaving this place is a sad thought for me.  I've wanted to live here since elementary school, and deciding to move back feels like giving up on a dream.  My positive spin on this is that I'm exchanging this dream so I can pursue new ones.  Moving back will allow me to grow faster professionally, contribute better to real-estate projects with my sister, and live the more empowered life that I want to live.
+Leaving this place is a sad thought for me.  I've wanted to live here since elementary school, and deciding to move back feels like giving up on a dream.  My positive spin on this is that I'm exchanging this dream so I can pursue new ones.  Moving back will allow me to grow faster professionally, contribute better to real-estate projects with my partner, and live the more empowered life that I want to live.
 
 <div class="img-m">
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/vJT656l"  ><a href="//imgur.com/a/vJT656l">Danny Montage</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
