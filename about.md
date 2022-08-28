@@ -60,3 +60,6 @@ Unfortunately, I've already used 沢岻 for important documents and personal bra
 But, <i>correct</i> should trump <i>convenient</i>.  It pains me to rewrite my own name, but as they say back in the Old Country, 仕方がない (<i>shikata ga nai</i>), meaning, "<i>it can't be helped</i>".  I'll switch over to the correct spelling for personal branding.
 
 Here's to re-rediscovering the culture of our ancestors.
+
+##### 2022-08-27 Update
+I just found out that, per [wiktionary](https://en.wiktionary.org/wiki/%E6%BE%A4), my original 沢 is actually used as a simplified version of 澤.  It's nice knowing both are correct.  I'll still try to use the traditional one since it's more unique and historically correct.
